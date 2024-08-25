@@ -1,0 +1,6 @@
+# Build 
+/target
+
+
+# Enviroment Variable
+.env
